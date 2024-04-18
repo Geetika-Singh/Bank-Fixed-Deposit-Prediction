@@ -11,5 +11,7 @@ Given this information, the task is to predict if the client will subscribe to t
 Data
 
 1. train.csv : This file contains all the client and call details as well as the target variable “subscribed”. Train the model using this file. <br>
-2. test.csv : Use the trained model to predict whether a new set of clients will subscribe the term deposit.
+2. test.csv : Use the trained model to predict whether a new set of clients will subscribe the term deposit. <br>
+
+The Evaluation metric for this competition is accuracy.
 
