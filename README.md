@@ -7,3 +7,9 @@ Telephonic marketing campaigns still remain one of the most effective way to rea
 We are provided with the client data such as : age of the client, their job type, their marital status, etc. <br>
 Along with the client data, we are also provided with the information of the call such as the duration of the call, day and month of the call, etc. <br> 
 Given this information, the task is to predict if the client will subscribe to term deposit.
+
+Data
+
+1. train.csv : This file contains all the client and call details as well as the target variable “subscribed”. Train the model using this file. <br>
+2. test.csv : Use the trained model to predict whether a new set of clients will subscribe the term deposit.
+
